@@ -52,8 +52,6 @@ Source code to the above - https://github.com/notmithun/notmithun.github.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notmithun)](https://github.com/notmithun)
 
-*I'm not sure why it says powershell is my most used.*
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notmithun&repo=notmithun.github.io)](https://github.com/notmithun/notmithun.github.io)
 
 *I created this using readme.so*
