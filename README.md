@@ -1,4 +1,3 @@
-
 # Hi, I'm Mithun! 👋
 
 
@@ -54,4 +53,7 @@ Source code to the above - https://github.com/notmithun/notmithun.github.io
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notmithun&repo=notmithun.github.io)](https://github.com/notmithun/notmithun.github.io)
 
+[![Daily.Dev Card](https://api.daily.dev/devcards/v2/KZEvfCLq422tW4c8gEMA2.png?r=i7d&type=default)](https://app.daily.dev/notmithun)
+
 *I created this using readme.so*
+
